@@ -40,7 +40,7 @@ Here’s what I’ve posted already (or will soon). Click the links to read them
 
 {% for post in site.posts %}
   <p>
-    <a href="{{ post.url }}">{{ post.title }}</a><br>
+    <a href="/blogs{{ post.url }}">{{ post.title }}</a><br>
     <small>{{ post.date | date: "%B %d, %Y" }}</small>
   </p>
 {% endfor %}
