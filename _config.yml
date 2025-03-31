@@ -1,1 +1,7 @@
-theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: Veneno's Tech Blogs
+description: Techincal blogs based on my experices and techincal knowlegde i gained.
+show_downloads: true
