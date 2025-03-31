@@ -3,9 +3,8 @@ title: Welcome to My Tech Blogs
 ---
 
 ## About Me
-Hi, I’m Sai Arun Munaganti, a Solution Architect with over 6 years of experience in full-stack development, DevOps, and blockchain. I’m currently leading the engineering team at Echor Tech in Hyderabad, India. My job is to design and build scalable backend solutions using AWS, turning client ideas into real, working products. I manage everything—from planning and coding to deployment and monitoring—making sure it all runs smoothly.
+Hi, I’m Sai Arun Munaganti, a Solution Architect with over 6 years of experience in full-stack development, DevOps, and blockchain. I’m currently leading the engineering team at Echor Tech. My job is to design and build scalable backend solutions using AWS, turning client ideas into real, working products. I manage everything—from planning and coding to deployment and monitoring—making sure it all runs smoothly.
 
-Before this, I worked as a Software Engineer and Lead Developer at Echor Tech, where I built big projects like a crypto trading platform and a real estate app called Landwey, which scaled to over 30,000 users. I’ve launched three crypto projects from scratch, growing them to thousands of users and a combined market cap of around $20 million. I’ve also worked at Grow Indigo and GGK Tech, where I revamped dashboards, migrated systems to AWS, and optimized apps to handle tens of thousands of users.
 
 I’m skilled in tools like AWS, React, Python, Node.js, Rust, Docker, and blockchain tech. I love solving tough problems, optimizing systems, and teaching others—I’ve been a volunteer Python teacher at Swecha.org since 2018. I studied Computer Science & Engineering at JNTUH College of Engineering in Hyderabad, where I was part of the FOSS Club and built a handwritten character recognition system as my major project.
 
@@ -40,19 +39,12 @@ I’ve been lucky to work on some cool projects and learn a ton along the way. T
 Here’s what I’ve posted already (or will soon). Click the links to read them:
 
 {% for post in site.posts %}
-  <a href="{{ post.url }}">{{ post.title }}</a><br>
+  <a href="/blogs{{ post.url }}">{{ post.title }}</a><br>
 {% endfor %}
-
-Example link: [Rust and WebAssembly: A Quick Dive](https://arunsai63.github.io/blogs/2025/03/31/rust-wasm)  
-This one’s about using Rust with WebAssembly to make fast web apps—check it out!
 
 ## Get in Touch
 Want to chat about tech or suggest a blog topic? Reach me at:  
-- Email: arunsai63@gmail.com  
 - LinkedIn: [linkedin.com/in/arun-munaganti](https://www.linkedin.com/in/arun-munaganti/)  
-- GitHub: [github.com/arunsai63](https://github.com/arunsai63)  
-
-You can also find me in Hyderabad, India, probably coding or teaching Python on the side. I’m a 6-star coder on HackerRank, so I love a good challenge!
 
 ## What’s Next?
 I’ll keep adding new posts as I work on projects or learn something worth sharing. Expect practical tips, real-world examples, and maybe a few lessons from my mistakes. Stick around—I’ll try to post frequently to keep this page buzzing with fresh content.
