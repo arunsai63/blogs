@@ -4,8 +4,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-title: Arun's Tech Blogs
-description: Techincal blogs by arun - Solution Architect
+title: Arun's Tech Insights
+description: Practical tutorials and deep-dives on cloud, DevOps, web development, and blockchain by Solution Architect Arun Munaganti.
 show_downloads: false
 url: "https://arunsai63.github.io"
 baseurl: "/blogs"
