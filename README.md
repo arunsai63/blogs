@@ -9,7 +9,7 @@ Check out the latest posts here 👉 [arunsai63.github.io/blogs](https://arunsai
 
 ## 🔧 Tech Stack
 - GitHub Pages
-- Jekyll (Minimal Mistakes theme)
+- Jekyll
 - Markdown
 
 ## 📬 Contributions

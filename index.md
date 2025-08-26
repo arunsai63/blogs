@@ -4,7 +4,7 @@ title: Arun's Tech Insights
 
 ## 👋 Hey there!
 
-I'm **Sai Arun Munaganti**, a Solution Architect leading engineering at Echor Tech. I specialize in full-stack development, DevOps, and blockchain. I turn ambitious product ideas into scalable cloud-native systems — and I love sharing what I learn.
+I'm **Arun Munaganti**, a Solution Architect leading engineering at Echor Tech. I specialize in full-stack development, DevOps, and blockchain. I turn ambitious product ideas into scalable cloud-native systems — and I love sharing what I learn.
 
 ---
 
@@ -64,6 +64,7 @@ Bite-sized guides and lessons from real projects.
 💬 Want to chat about tech, collab, or suggest a topic?
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arun-munaganti/)
+- 🔗 [Github](https://github.com/arunsai63)
 
 ---
 
