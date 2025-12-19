@@ -29,6 +29,8 @@ author: "Arun Munaganti"
 - Make the content informative, concise, and reader-friendly.
 - Avoid generic or repetitive language often associated with LLMs (e.g., “In today’s fast-paced world…”).
 - Don't over-explain — assume an intelligent reader.
+- Should be Human Like, Authentical, insightfull
+- Must not be Generic
 - Break long paragraphs into smaller chunks.
 - Inject light personality where appropriate but remain professional.
 
